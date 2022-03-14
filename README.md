@@ -1,16 +1,38 @@
-### Hi there 👋
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="460" height="320" />
 
-<!--
-**DoTrOngKhAnh/DoTrOngKhAnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is **Do Trong Khanh** and I'm a **Backend Developer**. I’m currently learning Computer Science at [University of Information Technology (UIT) - Vietnam National University](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology).
+
+## 📫 Contact me via:
+
+  [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:dotrongkhanh.dev@gmail.com)&emsp;
+  [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dotrongkhanh/)&emsp;
+    [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/dotrongkhanh.dev/)
+
+## 🔧 Technologies & Tools
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/bdb16798c8e64ee4111cc080b0a4afcc0adf7136/topics/laravel/laravel.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/bdb16798c8e64ee4111cc080b0a4afcc0adf7136/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://github.com/github/explore/blob/bdb16798c8e64ee4111cc080b0a4afcc0adf7136/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+
+## :zap: GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src='https://github-readme-stats.vercel.app/api?username=trong-khanh-1109&show_icons=true&theme=tokyonight&hide=issues'>
+    </td>
+    <td>
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=trong-khanh-1109&layout=compact&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src='https://activity-graph.herokuapp.com/graph?username=trong-khanh-1109&bg_color=1A1B27&color=71A4FC&line=3ABCAD&point=BE91F2&area=true'>
+    </td>
+  </tr>
+</table>
