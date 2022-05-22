@@ -1,7 +1,8 @@
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="460px" height="320" /> -->
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is **Do Trong Khanh** and I'm a **Backend Developer**. I’m currently learning Computer Science at [University of Information Technology (UIT) - Vietnam National University](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology).
+
+<!-- <p align="right"><img alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="460px" height="320" /></p> -->
 
 ## 📫 Contact me via:
 
