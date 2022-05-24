@@ -27,8 +27,8 @@ My name is **Do Trong Khanh** and I'm a **Backend Developer**. I’m currently l
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 ## :zap: GitHub Stats
-<div style="display: inline_block">
-  <img height="180em" src='https://github-readme-stats.vercel.app/api?username=Karhdo&show_icons=true&theme=tokyonight'>
+<div>
+  <img height="180em" src='https://github-readme-stats.vercel.app/api?username=Karhdo&show_icons=true&theme=tokyonight'>&nbsp;
   <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karhdo&layout=compact&langs_count=14&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
 </div>
 
