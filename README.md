@@ -1,4 +1,14 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<table>
+<tr>
+  <td width="60%">
+    My name is <b>Do Trong Khanh</b> and I'm a <b>Backend Developer</b>. I’m currently learning Computer Science at <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology">University of Information Technology (UIT) - Vietnam National University.</a> 
+  </td>
+  <td width="40%">
+    <img alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" />
+  </td>
+</tr>
+<table>
 
 My name is **Do Trong Khanh** and I'm a **Backend Developer**. I’m currently learning Computer Science at [University of Information Technology (UIT) - Vietnam National University](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology).
 
