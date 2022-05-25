@@ -14,17 +14,17 @@
 
 <!-- <p align="right"><img alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="460px" height="320" /></p> -->
 
-## 📫 Contact me via:
-
-  [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:dotrongkhanh.dev@gmail.com)&emsp;
-  [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dotrongkhanh/)&emsp;
-    [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/dotrongkhanh.dev/)
-
 ## :zap: GitHub Stats
 <div>
   <img height="180em" src='https://github-readme-stats.vercel.app/api?username=Karhdo&show_icons=true&theme=tokyonight'>&emsp;
   <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karhdo&layout=compact&langs_count=14&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
 </div>
+  
+## 📫 Contact me via:
+
+  [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:dotrongkhanh.dev@gmail.com)&emsp;
+  [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dotrongkhanh/)&emsp;
+    [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/dotrongkhanh.dev/)
 
 ## 🔧 Technologies & Tools
 
