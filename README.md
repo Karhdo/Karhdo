@@ -1,14 +1,4 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<!-- <table style="border: none!important">
-<tr>
-  <td width="60%" text-align: left>
-    My name is <b>Do Trong Khanh</b> and I'm a <b>Backend Developer</b>. I’m currently learning Computer Science at <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology">University of Information Technology (UIT) - Vietnam National University.</a> 
-  </td>
-  <td width="40%">
-    <img alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" />
-  </td>
-</tr>
-<table> -->
 
 My name is **Do Trong Khanh** and I'm a **Backend Developer**. I’m currently learning Computer Science at [University of Information Technology (UIT) - Vietnam National University](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology).
 
@@ -21,10 +11,10 @@ My name is **Do Trong Khanh** and I'm a **Backend Developer**. I’m currently l
     [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/dotrongkhanh.dev/)
 
 ## :zap: GitHub Stats
-<div>
+<p align="center">
   <img height="180em" src='https://github-readme-stats.vercel.app/api?username=Karhdo&show_icons=true&theme=tokyonight'>&emsp;
   <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karhdo&layout=compact&langs_count=14&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
-</div>
+</p>
 
 ## 🔧 Technologies & Tools
 
