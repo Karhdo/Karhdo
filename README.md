@@ -1,7 +1,8 @@
 ## Hello, I'm Do Trong Khanh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> - aka **Karhdo**
 
 - 👨‍🎓 Student at [VNU HCMC University of Information Technology.](https://www.uit.edu.vn/)
-- 🔭 I want to become a **Fullstack Developer** and I'm passionate about **Data Engineering**.
+- 👨🏻‍💻 I want to become a **Fullstack Developer**.
+- 🔭 I'm passionate about **Data Engineering**.
 - 🎾 My favorite sports are **Tennis** and **Football**.
 
 <!-- <p align="right"><img alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="420px" height="300" /></p> -->
