@@ -1,6 +1,7 @@
 <img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" />
 
-## Hello, I'm Do Trong Khanh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> - aka **Karhdo**
+<!-- ## Hello, I'm Do Trong Khanh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> - aka **Karhdo** -->
+## Hello, I'm Do Trong Khanh - aka **Karhdo**
 
 - 👨‍🎓 Student at [VNU HCMC University of Information Technology.](https://www.uit.edu.vn/)
 - 👨🏻‍💻 I want to become a **Fullstack Developer**.
