@@ -4,7 +4,7 @@
 
 - 👨‍🎓 Student at [VNU HCMC University of Information Technology.](https://www.uit.edu.vn/)
 - 👨🏻‍💻 I want to become a **Fullstack Developer**.
-- 🔭 I'm passionate about **Javascript Developer**.
+- 🔭 I'm passionate about **BlockChain**.
 - 🎾 My favorite sports are **Tennis** and **Football**.
 
 ## 📫 Contact me via:
