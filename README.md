@@ -15,8 +15,8 @@
 
 ## :zap: GitHub Stats
 <p align="center">
-  <img height="180em" src='https://github-readme-stats.vercel.app/api?username=Karhdo&show_icons=true&theme=tokyonight'>&emsp;
-  <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Karhdo&layout=compact&langs_count=14&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
+  <img height="180em" src='https://github-readme-stats-sigma-five.vercel.app/api?username=Karhdo&show_icons=true&theme=tokyonight'>&emsp;
+  <img height="180em" src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Karhdo&layout=compact&langs_count=14&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
 </p>
 
 ## 🔧 Technologies & Tools
