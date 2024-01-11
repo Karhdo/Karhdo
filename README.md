@@ -2,7 +2,8 @@
 
 ## Hello, I'm Do Trong Khanh - aka **Karhdo**
 
-- 👨‍🎓 Student at [VNU HCMC University of Information Technology.](https://www.uit.edu.vn/)
+- 💻 Check out my blog at [karhdo.dev](https://karhdo.dev/)
+- 👨‍🎓 Student graduated from [VNU HCMC University of Information Technology.](https://www.uit.edu.vn/)
 - 👨🏻‍💻 I want to become a **Fullstack Developer**.
 - 🔭 I'm passionate about **BlockChain**.
 - 🎾 My favorite sports are **Tennis** and **Football**.
@@ -40,4 +41,9 @@
 
 ## 📈 My Activities
 
-![Snake animation](https://github.com/Karhdo/Karhdo/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karhdo/Karhdo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karhdo/Karhdo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Karhdo/Karhdo/output/github-contribution-grid-snake.svg">
+</picture>
+
