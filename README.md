@@ -3,7 +3,7 @@
 ## Hello, I'm Do Trong Khanh - aka **Karhdo**
 
 - 💻 Check out my blog at [karhdo.dev](https://karhdo.dev/)
-- 👨‍🎓 Student graduated from [VNU HCMC University of Information Technology.](https://www.uit.edu.vn/)
+- 👨‍🎓 Student graduated from [University of Information Technology.](https://www.uit.edu.vn/)
 - 👨🏻‍💻 I want to become a **Fullstack Developer**.
 - 🔭 I'm passionate about **BlockChain**.
 - 🎾 My favorite sports are **Tennis** and **Football**.
