@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About me
 
-- 💼 **Software Engineer** at [Spartan](https://hirespartan.io/), building [LoanBud](https://loanbud.com/), [Dealops](https://dealops.com/) and [Deep Sky Climate](https://www.deepskyclimate.com/)
+- 💼 **Software Engineer** at [Spartan](https://hirespartan.io/), building [Dealops](https://dealops.com/) and [Deep Sky Climate](https://www.deepskyclimate.com/)
 - 🎓 Studying for an **MSc in Information Systems** at [UIT – HCMC](https://www.uit.edu.vn), where I also earned my Computer Science degree
 - 📝 Writing about backend, databases and web development at [karhdo.dev](https://karhdo.dev/blog)
 - 🌱 Now learning **Astro** & **Bun** by rebuilding my site
@@ -25,7 +25,6 @@
 | Project | What I built | Stack |
 | --- | --- | --- |
 | [**Deep Sky Climate**](https://www.deepskyclimate.com/) | Founding engineer on an IoT data platform for carbon removal: Go ingestion from AWS Kinesis, Spark batch jobs on EMR, Airflow pipelines | Go · Scala · Spark · Airflow · Kubernetes |
-| [**LoanBud**](https://loanbud.com/) | SBA loan marketplace: Hub-to-CRM sync on a transactional outbox, Meta Lead Ads ingestion, segment builder, Twilio video meetings | Kotlin · Spring Boot · PostgreSQL · React · SQS |
 | [**Dealops**](https://dealops.com/) | Agentic CPQ: in-app AI chat assistant, admin pricing tools and quoting features | React · TypeScript · tRPC · Prisma · Turborepo |
 | [**EcomHeat**](https://youneteci.com/en/eci-ecomheat/) | Vietnam's first e-commerce data intelligence platform: market share, sales performance and competitor research | React · FeathersJS · MySQL · RabbitMQ |
 | [**karhdo.dev**](https://github.com/Karhdo/karhdo.dev) | My blog and portfolio, rebuilt from Next.js to Astro with a Tokyonight theme | Astro · Bun · Tailwind · Drizzle |
